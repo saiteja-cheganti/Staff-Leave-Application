@@ -1,0 +1,25 @@
+#message, #days{
+    border-radius: 2rem;
+    resize: none;
+}
+
+textarea{
+  display: grid;
+  width: 97%;
+}
+section,textarea{
+margin: 15px;
+}
+.but{
+  display: flex;
+  justify-content: center;
+
+}
+.btn{
+    justify-content: center;
+    display: flex;
+}
+
+.form-control{
+   cursor: default;
+}
