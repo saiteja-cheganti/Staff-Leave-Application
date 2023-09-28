@@ -1,0 +1,9 @@
+{
+  "users": [
+    {
+      "staffId": "12345",
+      "password": "saiteja",
+      "id": 1
+    }
+  ]
+}

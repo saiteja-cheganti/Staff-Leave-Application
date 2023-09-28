@@ -1,0 +1,27 @@
+.name{
+    margin: 40px;
+}
+
+.sec{
+    border: 2px rgb(185, 183, 183);
+    border-style: solid;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 1px;
+    flex: 0 0 auto;
+    width: 15rem;
+    margin: 30px 40px 10px 80px;
+    padding: 20px;
+}
+
+.det{
+    justify-content: center;
+}
+/* .container{
+    margin: 0%;
+} */
+
+svg{
+    color: rgb(32, 144, 219);
+    height: 20px;
+}

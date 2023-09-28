@@ -1,0 +1,14 @@
+.heading,.request{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+button{
+    width: 40%;
+    display: inline-block;
+    margin: 4% 1% 1% 3%;
+}
+
+.btn{
+ display: inline;
+}

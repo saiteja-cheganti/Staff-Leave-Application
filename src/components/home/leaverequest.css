@@ -1,0 +1,23 @@
+.heading{
+    display: grid;
+    grid-template-columns: 4fr 1fr 1fr;
+}
+.allreq{
+    border: 2px solid rgb(137, 133, 133);
+  margin: 35px 15px 10px 15px;
+  border-radius: 10px;
+}
+
+.request{
+    border: 1px solid rgb(216, 213, 213);
+    margin: 10px;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: 4fr 1fr 1fr;
+}
+
+
+#res{
+display: inline-block;
+width: 75px;
+}

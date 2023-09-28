@@ -1,0 +1,6 @@
+POST http://localhost:3999/users/insertLeave
+Content-Type:"application/json"
+
+{
+    "hello" : "hi"
+}
